@@ -8,18 +8,10 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:161B22&height=100&section=header" width="100%" />
 </p>
 
-### About Me
-
-```text
-Name      : Tanvir Ahmed
-Focus     : Learning & Development
-Mindset   : Always curious
-```
-
 ### Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,python,c,java&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=dart&theme=dark" />
 </p>
 
 ### Connect
