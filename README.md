@@ -1,6 +1,7 @@
                                                           Tanvir Hasan
                                                  learning, building & evolving.
-                                                 # Tanvir Ahmed
+                                                 
+# Tanvir Ahmed
 
 <p align="center">
   <samp>Learning • Building • Exploring</samp>
@@ -27,6 +28,9 @@
 <p>
   <a href="https://github.com/tanvir3axisCC">
     <img src="https://img.shields.io/badge/GitHub-0d1117?style=flat-square&logo=github&logoColor=white" />
+  </a>
+  <a href="https://www.facebook.com/tanvir.ahmed.603702">
+    <img src="https://img.shields.io/badge/Facebook-0d1117?style=flat-square&logo=facebook&logoColor=white" />
   </a>
 </p>
 
