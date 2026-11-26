@@ -1,12 +1,6 @@
                                                           Tanvir Hasan
                                                  learning, building & evolving.
                                                  
-# Tanvir Ahmed
-
-<p align="center">
-  <samp>Learning • Building • Exploring</samp>
-</p>
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=2&section=header" width="100%" />
 </p>
@@ -19,14 +13,11 @@
 
 ### Tech Stack
 
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,python,c,java&theme=dark" />
-</p>
 
 ### Connect
 
-<p>
-  <a href="https://github.com/tanvir3axisCC">
+<p allign="center">
+  <a href="https://github.com/tanvirhasan-code">
     <img src="https://img.shields.io/badge/GitHub-0d1117?style=flat-square&logo=github&logoColor=white" />
   </a>
   <a href="https://www.facebook.com/tanvir.ahmed.603702">
@@ -34,6 +25,3 @@
   </a>
 </p>
 
-<p align="center">
-  <samp>「 Always learning. Always growing. 」</samp>
-</p>
